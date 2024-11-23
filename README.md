@@ -24,12 +24,12 @@ A modern, sleek portfolio website featuring smooth scrolling, interactive projec
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/yourusername/bentolio.git
+   git clone https://github.com/adityaj08/BentolioV1.git
    ```
 
 2. Navigate to the project directory
    ```bash
-   cd bentolio
+   cd BentolioV1
    ```
 
 3. Open `index.html` in your browser or use a local development server
@@ -67,7 +67,7 @@ bentolio/
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Contact
-twitter/X - [@aditya_avadhoot](https://twitter.com/yourusername)
+twitter/X - [@aditya_avadhoot](https://twitter.com/aditya_avadhoot)
 
 Project Link : [https://github.com/adityaj08/BentolioV1](https://github.com/adityaj08/BentolioV1)
 
